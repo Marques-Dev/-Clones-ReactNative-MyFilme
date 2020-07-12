@@ -179,7 +179,7 @@ const styles = StyleSheet.create({
   },
   carouselImg:{
     alignSelf: 'center',
-    width: 200,g
+    width: 200,
     height: 300,
     borderRadius: 12,
     backgroundColor: 'rgba(0,0,0,0.5)'
